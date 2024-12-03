@@ -1,3 +1,12 @@
+
+//Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
+//javac EpicSuperHeroNames.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez générer un nom :
+//java EpicSuperHeroNames
+
+//Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
+
+
 import java.util.Random;
 
 public class EpicSuperHeroNames {
@@ -31,8 +40,10 @@ public class EpicSuperHeroNames {
         System.out.println("TADA ! Voilà ton nom de Super-Héros Épique !  Tu es " + superheroName + " !!");
     }
 }
+
 //Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
 //javac EpicSuperHeroNames.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez générer un nom :
 //java EpicSuperHeroNames
 
 //Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
