@@ -1,3 +1,11 @@
+
+//Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
+//javac Calculator.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez jouer :
+//java Calculator
+
+//Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
+
 import java.util.Scanner;
 
 public class Calculator {
@@ -52,3 +60,10 @@ public class Calculator {
     }
     
 }
+
+//Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
+//javac Calculator.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez jouer :
+//java Calculator
+
+//Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
