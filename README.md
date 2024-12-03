@@ -23,5 +23,6 @@ Dans le terminal (ctrl + ù), rentrer :
 Puis :
   java [Nom du fichier]
 (Ne vous inquiétez pas, je vais le mettre sur tous les fichiers, vous n'aurez qu'à faire un gentil copier/coller !)
+Si vous voyez un fichier .class qui débarque, c'est normal !
 
 ## Etape 4/4 : Amusez-vous bien !
