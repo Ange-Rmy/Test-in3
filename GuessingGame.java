@@ -1,3 +1,11 @@
+
+//Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
+//javac GuessingGame.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez rejouer avec le terminal :
+//java GuessingGame
+
+//Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -38,3 +46,11 @@ public class GuessingGame {
         scanner.close();
     }
 }
+
+
+//Lancer dans le terminal (ctrl + ù de VSCode) les deux commandes :
+//javac GuessingGame.java
+//Lancer le jeu en envoyant la commande suivante chaque fois que vous voulez rejouer avec le terminal :
+//java GuessingGame
+
+//Code de base généré par Copilot, Idée originale et Modifications apportées par Ange_Rmy
