@@ -16,7 +16,7 @@ Dans Windows, "Modifier les variables d'environnement système" (ou Path)
 Cliquer sur "Variable d'environnement..." vers le bas de la fenêtre :
   Ajouter "Nouvelle..." dans le bloc Variable Système" : JAVA_HOME en nom de variable, et donner le chemin de votre dossier "jdk-23"
 
-## Etape 3/4 : Pour lance le jeu
+## Etape 3/4 : Pour lancer le jeu
 Ouvrir le fichier avec VSCode.
 Dans le terminal (ctrl + ù), rentrer :
   javac [Nom du fichier].java
